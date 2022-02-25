@@ -1,0 +1,453 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>St. Crispins triumph over Pope Innocent, or, The monks and fryers routed a tragi-comedy, as it was lately acted with great noise at Dantzick in Poland by the reforming shoemakers, and other retainers to St. Hugh : wherein it is infallibly demonstrated that they who wone had the best on't, and that since people will not be so wise to pluck out their eyes and turn papists, the most effectual and speedy way to convert soul and body together is by strangling, murther, fire and gunpowder.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59573</idno>
+            <idno type="STC">Wing S300</idno>
+            <idno type="STC">ESTC R25536</idno>
+            <idno type="EEBO-CITATION">09008378</idno>
+            <idno type="OCLC">ocm 09008378</idno>
+            <idno type="VID">42208</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A59573)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42208)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1293:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>St. Crispins triumph over Pope Innocent, or, The monks and fryers routed a tragi-comedy, as it was lately acted with great noise at Dantzick in Poland by the reforming shoemakers, and other retainers to St. Hugh : wherein it is infallibly demonstrated that they who wone had the best on't, and that since people will not be so wise to pluck out their eyes and turn papists, the most effectual and speedy way to convert soul and body together is by strangling, murther, fire and gunpowder.</title>
+               </titleStmt>
+               <extent>13 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1678.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:42208:1"/>
+            <pb facs="tcp:42208:1"/>
+            <p>St. Criſpins Triumph OVER Pope Innocent: OR THE Monks and Fryers Routed. A Tragi-Comedy, As it was lately Acted with great Noiſe at <hi>Dantzick</hi> in <hi>Poland</hi> by the Reforming Shoemakers, and other Retainers to St. <hi>Hugh.</hi>
+            </p>
+            <p>Wherein it is Infallibly demonſtrated, that they who wone, had the beſt on't; and that ſince People will not be ſo wiſe to pluck out their Eyes, and turn Papiſts, the moſt effe<g ref="char:EOLhyphen"/>ctual and ſpeedy way to convert Soul and Body together, is by Strangling, Murther, Fire and Gunpowder.</p>
+            <p>Licenſed <hi>November</hi> 2d 1678.</p>
+            <p>Printed at <hi>Primroſe-Hill</hi> for the ſpecial Edification of thoſe New Mi<g ref="char:EOLhyphen"/>racle-Mongers, who would perſwade us, that after a man has been Strangled and Murthered, he can yet walk a Mile, and run himſelf through with his own Sword. <hi>Octob.</hi> 17. 1678.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:42208:2"/>
+            <pb n="1" facs="tcp:42208:2"/>
+            <head>St. <hi>CRISPINS</hi> TRIUMPH OVER POPE INNOCENT; OR THE Monks and Fryers Routed, <hi>&amp;c.</hi>
+            </head>
+            <lg n="1">
+               <head>1.</head>
+               <l>HEre's pretty Sport for Hereticks, I ſwear,</l>
+               <l>
+                  <hi>Romes</hi> golden Calves at <hi>Dantzick</hi> turn'd to Grafs</l>
+               <l>Their Holy Trinkets they in pieces tear,</l>
+               <l>And Goodman <hi>Pax</hi>'s tranſlated to an Aſs.</l>
+               <l>Another wonder's added to their Church,</l>
+               <l>The Fryers left their Puppet Saints i'th' Lurch.</l>
+            </lg>
+            <lg n="2">
+               <head>2.</head>
+               <l>Rude <hi>Hugenots,</hi> how durſt you be ſo bold</l>
+               <l>To lay your hands upon ſuch holy things,</l>
+               <l>You'l certainly be curs'd by Young and Old.</l>
+               <l>Hark how the clapper of their Bull-bell rings,</l>
+               <l>To break the Necks of Saints, are mortal ſins,</l>
+               <l>Not to be pardoned had you broke their ſhins.</l>
+            </lg>
+            <pb n="2" facs="tcp:42208:3"/>
+            <lg n="3">
+               <head>3.</head>
+               <l>This brisk Attempt hath turn'd their Even-ſong,</l>
+               <l>And <hi>Ave Maries</hi> into doleful Dirges,</l>
+               <l>Who without doubt will hang themſelves e're long,</l>
+               <l>At leaſt do Penance on their backs with Scourges,</l>
+               <l>For ſuffering their gods, thoſe ſilly Elves,</l>
+               <l>To be deſtroy'd, that could not ſave themſelves.</l>
+            </lg>
+            <lg n="4">
+               <head>4.</head>
+               <l>The Suckling-bottle of the Virgins Milk,</l>
+               <l>So long preſerved for thoſe Babes of Grace,</l>
+               <l>Thick crumb'd with breaden god, is broke and ſpilt,</l>
+               <l>And waxen Thumbs the Crucifix deface;</l>
+               <l>Their Angels alſo which then went to Pot,</l>
+               <l>Hath quite undone their Miracles god wot.</l>
+            </lg>
+            <lg n="5">
+               <head>5.</head>
+               <l>But you the Offspring of St. <hi>Criſpins</hi> Race,</l>
+               <l>How fell ye out, ſince both Sole-menders are,</l>
+               <l>For Gentle Craft the Relicts to deface;</l>
+               <l>Suppoſe St. <hi>Hugh</hi> had with his Boots been there,</l>
+               <l>VVould you ingage him ſo in ſtormy weather,</l>
+               <l>To tear the Sole from off the upper Leather.</l>
+            </lg>
+            <pb n="3" facs="tcp:42208:3"/>
+            <lg n="6">
+               <head>6.</head>
+               <l>You rather ought have brought your Awls and Ends,</l>
+               <l>And ſticht together what you found awry,</l>
+               <l>Or par'd'um gently on your Laſt like Friends</l>
+               <l>And Loyal Coblers to their Monaſtry;</l>
+               <l>And ſo perhaps you would, had they been ought,</l>
+               <l>You were forc'd to Vamp them, cauſe their Souls were naught.</l>
+            </lg>
+            <lg n="7">
+               <head>7.</head>
+               <l>Troth like enough, good cauſe to think 'um ſo,</l>
+               <l>
+                  <hi>Romes</hi> Emiſſaries round the world do Roam,</l>
+               <l>To every Court in Chriſtendom they go,</l>
+               <l>Make miſchiefs there, then ſend advices home;</l>
+               <l>Corrupting Counſels, and dividing States,</l>
+               <l>And Fly-blow Maggots in the peoples Pates.</l>
+            </lg>
+            <lg n="8">
+               <head>8.</head>
+               <l>This they effect by divers ways and Forms,</l>
+               <l>To day a Courtier, to morrow clad in Leather,</l>
+               <l>His Lordſhips Chaplain, or a Man in Arms;</l>
+               <l>A Merchant next, a Tradeſman, all or either,</l>
+               <l>A Zealot now, and then a Hector, he's</l>
+               <l>The Devil and all, there's nothing comes amiſs.</l>
+            </lg>
+            <pb n="4" facs="tcp:42208:4"/>
+            <lg n="9">
+               <head>9.</head>
+               <l>Swear and Forſwear, take any Obligation,</l>
+               <l>Rail at their Church, and ban his Holineſs name,</l>
+               <l>Betray their Fathers; they have Diſpenſation</l>
+               <l>For Murther, Stabbing, Fry ye in a Flame,</l>
+               <l>Any way Conquer for their Churches good,</l>
+               <l>'Cauſe beſt it thrives when deepeſt ſet in blood.</l>
+            </lg>
+            <lg n="10">
+               <head>10.</head>
+               <l>Theſe are the Tenents of thoſe Saints of <hi>Rome,</hi>
+               </l>
+               <l>Or Monſters rather, Fire-brands of Hell,</l>
+               <l>The very Peſts and Plagues of Chriſtendome,</l>
+               <l>As ſad Experience to the world doth tell,</l>
+               <l>By whoſe Accurſed hands more Chriſtians dy'd,</l>
+               <l>Then have by Turks or Infidels beſide.</l>
+            </lg>
+            <lg n="11">
+               <head>11.</head>
+               <l>And ſhall this Viperous brood delude us ſtill,</l>
+               <l>Under pretence of Zeal and Piety,</l>
+               <l>VVhoſe Helliſh aim is Chriſtian blood to ſpill,</l>
+               <l>And force the way for their Idolatry;</l>
+               <l>Their Avarice doth ſqueez the peoples Veins</l>
+               <l>As dry as Kexes where their Power Reigns.</l>
+            </lg>
+            <pb n="5" facs="tcp:42208:4"/>
+            <lg n="12">
+               <head>12.</head>
+               <l>They have Indulgence for the worſt of ſins,</l>
+               <l>Or more or leſs, paſt, preſent, or to come,</l>
+               <l>They'l Pardons ſell, as Pedlers do their Pins;</l>
+               <l>Barter for Heaven, if you'l but pay the ſum;</l>
+               <l>For ready Money they can do the Trick,</l>
+               <l>But have no more to do there than <hi>Old Nick.</hi>
+               </l>
+            </lg>
+            <lg n="13">
+               <head>13.</head>
+               <l>This may Amaze, that men of common ſence</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> beſotted to their Fooleries,</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, Bulls, their Legends, <hi>Peter</hi> pence</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Cheat, and Errant Rogueries;</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> but Lies and Blaſphemies they are,</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſerve as Pimps and Bauds to <hi>Peters</hi> Chair.</l>
+            </lg>
+            <lg n="14">
+               <head>14.</head>
+               <l>This they of <hi>Dantzick</hi> wiſely did foreknow,</l>
+               <l>And with a Reſolution ſtout and bold</l>
+               <l>Engag'd the Lubbers 'midſt their Foppiſh Show,</l>
+               <l>As they of <hi>Swe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>dland</hi> ſerved them of old;</l>
+               <l>Whoſ cutting Laws are ſuch Afflicting ones,</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hey ſend <hi>Romes</hi> Stallions home without their Stones.</l>
+            </lg>
+            <pb n="6" facs="tcp:42208:5"/>
+            <lg n="15">
+               <head>15.</head>
+               <l>Then haſt ye Juglers, Popiſh Prieſts be gone,</l>
+               <l>For if again you ſhould the People Vex,</l>
+               <l>Your Puppet-plays will cauſe them (ten to one)</l>
+               <l>Inſtead of broken Pates, to break your Necks;</l>
+               <l>And unto Hell or Purgatory ſend ye,</l>
+               <l>From whence the <hi>Poles</hi> nor <hi>Planets</hi> can defend ye.</l>
+            </lg>
+            <lg>
+               <head>Concluſion.</head>
+               <l>VVhen this they heard, they durſt no longer ſtay,</l>
+               <l>Pickt up their broken Tools and ran away,</l>
+               <l>But left their Prayers behind them at <hi>Allhallows,</hi>
+               </l>
+               <l>And cauſe 'tis worth your Reading, here it follows.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb n="7" facs="tcp:42208:5"/>
+            <head>The Humble Supplication of the <hi>Monks</hi> and <hi>Fryers</hi> to St. <hi>Dominick</hi> their Patron, upon their Routing by the Shoemakers at <hi>Dantzick,</hi>
+            </head>
+            <lg>
+               <l>HOly Patron <hi>Dominick,</hi>
+               </l>
+               <l>We invoke thee Damn <hi>Dantzick,</hi>
+               </l>
+               <l>Plague them ſorely, we do woe thee,</l>
+               <l>Let not <hi>Belzebub</hi> outdo thee;</l>
+               <l>Taw the Soles of Leathern Sinners,</l>
+               <l>That did ſpoyl our <hi>Sport</hi> and <hi>Dinners;</hi>
+               </l>
+               <l>They confounding all our <hi>Trumpery,</hi>
+               </l>
+               <l>Made us Dine with old <hi>D. Humphry;</hi>
+               </l>
+               <l>Starving ſo our Hungry <hi>Paunches,</hi>
+               </l>
+               <l>Thy <hi>Cheek</hi>'s thicker than our <hi>Haunches;</hi>
+               </l>
+               <l>Pinched harder by our Foes,</l>
+               <l>Than <hi>Dunſtan</hi> did the Devils Noſe;</l>
+               <l>They ſo with blows our Sides inviron,</l>
+               <l>Our Ribs appear like a Gridiron;</l>
+               <pb n="8" facs="tcp:42208:6"/>
+               <l>Falling firſt upon our Bones,</l>
+               <l>And next we fear 'twill be our St—</l>
+               <l>Which if loſt, the Chaſeſt Nun,</l>
+               <l>Is for ever quite undone,</l>
+               <l>And we fear will do the Trick</l>
+               <l>With our Foe the <hi>Heretick;</hi>
+               </l>
+               <l>For the Holy Maid of <hi>Kent,</hi>
+               </l>
+               <l>And Pope <hi>Joan</hi> too have been ſhent;</l>
+               <l>Venial Sins with good intent,</l>
+               <l>That's well done, that is well meant;</l>
+               <l>Thus unerring Church is true,</l>
+               <l>Natures courſe muſt have its due.</l>
+            </lg>
+            <lg>
+               <l>But what's this unto our purpoſe,</l>
+               <l>Or the loſs of Hood and Surplice;</l>
+               <l>If Saint <hi>Dominick</hi> can't do't,</l>
+               <l>Let's intreat the Devil to't,</l>
+               <l>And his Holineſs to boot.</l>
+               <l>For we hate this damned dodging,</l>
+               <l>We'l to <hi>Rome</hi> unto their Lodging,</l>
+               <pb n="9" facs="tcp:42208:6"/>
+               <l>Where we certain find 'um can,</l>
+               <l>In the Stews or <hi>Vatican;</hi>
+               </l>
+               <l>And our Augury to us ſhows,</l>
+               <l>Being told by <hi>Francis Crows,</hi>
+               </l>
+               <l>Drinking Martyrs Blood for Wine</l>
+               <l>They together were to Dine,</l>
+               <l>Tended on by <hi>Bellarmine.</hi>
+               </l>
+               <l>Coming thither, there they found 'um</l>
+               <l>With the Cardinals around 'um;</l>
+               <l>Where they were to ſtay a Sennight,</l>
+               <l>Shearing Hogs for good St. <hi>Bennet:</hi>
+               </l>
+               <l>Some o'th' Saints heard the grunting,</l>
+               <l>Said the Devil Rid a Hunting;</l>
+               <l>Others Swore 'twas no ſuch meeting,</l>
+               <l>But the Pope and Devil greeting;</l>
+               <l>Met in kindneſs to each other,</l>
+               <l>To take care of Holy Mother;</l>
+               <l>And reſolving on a Dance,</l>
+               <l>Sent away a Poſt for <hi>France,</hi>
+               </l>
+               <l>To invite their deareſt Son,</l>
+               <l>Who much of their Work had done;</l>
+               <pb n="10" facs="tcp:42208:7"/>
+               <l>Unto which they both agreed,</l>
+               <l>Vow'd it was as true as Creed,</l>
+               <l>He had been their truſty Steed.</l>
+               <l>Monſieur mounted, on he joggs</l>
+               <l>Through the <hi>Scotch</hi> and <hi>Iriſh</hi> boggs,</l>
+               <l>Curſing of the <hi>Engliſh</hi> Cloggs;</l>
+               <l>For he neither thought or meant,</l>
+               <l>To tugg with King and Parliament,</l>
+               <l>Who had ſpoyl'd <hi>His Bleſt Intent.</hi>
+               </l>
+               <l>Being met, no Tongue can utter,</l>
+               <l>How they quaft and fed at Supper</l>
+               <l>On a Tub of <hi>Dutchmens</hi> Butter.</l>
+               <l>Now let us our Plaint renew,</l>
+               <l>And unto their Lordſhips ſhew,</l>
+               <l>How we ſped in our Adventure,</l>
+               <l>They may Ram 'um to the Center;</l>
+               <l>For the Saints we long have Pray'd to</l>
+               <l>Are aſleep, or hardly laid to.</l>
+               <l>Then began an old Raſcallion,</l>
+               <l>Either <hi>Spaniard</hi> or <hi>Italian,</hi>
+               </l>
+               <pb n="11" facs="tcp:42208:7"/>
+               <l>And ſo like a <hi>Ragamuffin,</hi>
+               </l>
+               <l>You'd have Sworn 'twas a <hi>Capuchin.</hi>
+               </l>
+               <l>Father Pope, and Father Devil,</l>
+               <l>And you the moſt Unchriſtian Evil;</l>
+               <l>Wrong the Right, we have ſuſtain'd,</l>
+               <l>Wherein we were juſtly maim'd;</l>
+               <l>They in ſpight of <hi>Sobietski,</hi>
+               </l>
+               <l>Mar'd the tools your Worſhips get by,</l>
+               <l>Made on purpoſe to pick Pockets,</l>
+               <l>Theivs are Saints diſguis'd in <hi>Rockets;</hi>
+               </l>
+               <l>Therefore, if you do not help us,</l>
+               <l>Ye are Puppies, and be whelp us;</l>
+               <l>But old <hi>Creſſy</hi> had the Knack,</l>
+               <l>To outdo the reſt o'th' Pack</l>
+               <l>In Relating of a Myſtery,</l>
+               <l>Helliſh Lies in Churches Hiſtory;</l>
+               <l>And by adding ſomewhat more</l>
+               <l>Unto what was ſaid before,</l>
+               <l>Made the Devil ſtamp and ſtare,</l>
+               <l>Pope fall backward in his Chair,</l>
+               <pb n="12" facs="tcp:42208:8"/>
+               <l>But upon the point to go,</l>
+               <l>
+                  <hi>Monſieur</hi> caught him by the Toe,</l>
+               <l>And did promiſe with his Allies,</l>
+               <l>All the Forces up to Rally;</l>
+               <l>Would ingage their <hi>Church</hi> to further</l>
+               <l>By unheard of Rapes and Murther;</l>
+               <l>Only Pray'd the Popes direction,</l>
+               <l>And his Devilſhips Protection.</l>
+               <l>This when ſaid, did pleaſe 'um well,</l>
+               <l>So they took a turn to Hell,</l>
+               <l>To debate it at their leiſure,</l>
+               <l>Whence the <hi>Monſieur</hi> takes his <hi>meaſure,</hi>
+               </l>
+               <l>And i'th' interim is providing</l>
+               <l>For to do the Trick by Bribing.</l>
+               <l>Now perhaps ſome <hi>Criticks</hi> ſaying,</l>
+               <l>This is not the Form of Praying,</l>
+               <l>And like Fools againſt it chatter,</l>
+               <l>Not acquainted with our Matter;</l>
+               <l>For when Folks ingage by'th' ears,</l>
+               <l>Curſing goes inſtead of Prayers;</l>
+               <pb n="13" facs="tcp:42208:8"/>
+               <l>Or to Rail and Swear at Fortune,</l>
+               <l>Is as good as Praying certain;</l>
+               <l>But whatever may befal it,</l>
+               <l>True it is, what e're you call it;</l>
+               <l>And from what the Rogues intend us,</l>
+               <l>Oh Almighty God defend us.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
